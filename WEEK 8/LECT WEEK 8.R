@@ -90,4 +90,5 @@ data_new[data_new<le] <- le
 data_new[data_new>ue] <- ue
 data_new
 
+
 boxplot(data_new, main = "Boxplot")
