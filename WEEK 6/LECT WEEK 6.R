@@ -134,3 +134,4 @@ class(iris$Species)
 levels(iris$Species)
 iris$Species_numeric <- as.numeric(iris$Species)
 head(iris)
+
